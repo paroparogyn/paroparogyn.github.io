@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.paroparogyn.twa",
+      "sha256_cert_fingerprints": [
+        "EC:CF:ED:F5:3C:A4:12:6A:44:68:03:E5:D8:27:2F:69:FA:5C:28:F8:E6:15:A5:09:CF:35:A4:24:27:68:88:27"
+      ]
+    }
+  }
+]
